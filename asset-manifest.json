@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dibelspractice/static/css/main.2796544f.chunk.css",
+    "main.js": "/dibelspractice/static/js/main.985216b7.chunk.js",
+    "main.js.map": "/dibelspractice/static/js/main.985216b7.chunk.js.map",
+    "runtime-main.js": "/dibelspractice/static/js/runtime-main.fdf59433.js",
+    "runtime-main.js.map": "/dibelspractice/static/js/runtime-main.fdf59433.js.map",
+    "static/js/2.c1e6bf97.chunk.js": "/dibelspractice/static/js/2.c1e6bf97.chunk.js",
+    "static/js/2.c1e6bf97.chunk.js.map": "/dibelspractice/static/js/2.c1e6bf97.chunk.js.map",
+    "index.html": "/dibelspractice/index.html",
+    "precache-manifest.e08850a4d3cfc6edaf899b23faefa510.js": "/dibelspractice/precache-manifest.e08850a4d3cfc6edaf899b23faefa510.js",
+    "service-worker.js": "/dibelspractice/service-worker.js",
+    "static/css/main.2796544f.chunk.css.map": "/dibelspractice/static/css/main.2796544f.chunk.css.map",
+    "static/js/2.c1e6bf97.chunk.js.LICENSE.txt": "/dibelspractice/static/js/2.c1e6bf97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf59433.js",
+    "static/js/2.c1e6bf97.chunk.js",
+    "static/css/main.2796544f.chunk.css",
+    "static/js/main.985216b7.chunk.js"
+  ]
+}
